@@ -1,0 +1,2 @@
+# wdcnn_bearning_fault_diagnosis
+wdcnn轴承故障模型
